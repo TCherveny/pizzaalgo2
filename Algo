@@ -1,5 +1,11 @@
 find 3 most popular pizza places 
-cross reference distance, delivery time, prices, specials, ratings
+cross reference 
+     a.distance
+     b.delivery 
+     c.time 
+     d.prices
+     e.specials
+     f.ratings
 decide which shop
 decide size
 decide crust type 
@@ -8,5 +14,6 @@ place order
 choose payment method
 recieve pizza 
 tip driver 
+grab beverage
 eat pizza
 repeat daily
